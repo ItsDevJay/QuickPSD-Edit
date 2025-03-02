@@ -1,0 +1,53 @@
+QuickPSD Edit - Usage Guide
+
+1. Prerequisites
+
+Before running QuickPSD Edit, ensure you have the following installed:
+
+Python 3.x
+Flask (pip install flask)
+pywin32 (pip install pywin32)
+Adobe Photoshop (Must be installed on your system)
+2. Installation
+
+Clone the repository:
+git clone https://github.com/yourusername/QuickPSD-Edit.git
+cd QuickPSD-Edit
+Install dependencies:
+pip install -r requirements.txt
+Ensure Photoshop is installed and configured correctly.
+3. Setup
+
+Place your PSD files in the specified directory:
+C:\Users\Administrator\Desktop\PSD Templates
+Modify PSD_DIRECTORY in app.py if you want a different location.
+4. Running the Application
+
+Start the Flask web server:
+
+python app.py
+By default, the server runs on http://127.0.0.1:5000/.
+
+5. Using QuickPSD Edit
+
+Viewing PSD Files
+Open your browser and go to http://127.0.0.1:5000/
+A list of available PSD files will be displayed.
+Click on a file to view and edit its text layers.
+Editing Text Layers
+Select the layers you want to modify.
+Enter new text in the provided text areas.
+Choose the output format (PNG or PSD).
+Click "Submit All" to save the changes.
+Downloading the Modified File
+Once processed, a download link will appear for the updated file.
+6. Notes & Troubleshooting
+
+If Photoshop does not open or crashes, try restarting your system.
+Ensure win32com.client is correctly installed and Photoshop COM objects are accessible.
+If Flask doesn’t start, check if port 5000 is available or change it in app.py.
+7. Future Enhancements
+
+Support for cloud storage integration.
+AI-based text recognition for non-text layers.
+Additional image format exports (JPG, SVG).
