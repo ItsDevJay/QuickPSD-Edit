@@ -8,10 +8,12 @@ Python 3.x
 Flask (pip install flask)
 pywin32 (pip install pywin32)
 Adobe Photoshop (Must be installed on your system)
+pyfiglet (pip install pyfiglet)
+
 2. Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/QuickPSD-Edit.git
+git clone https://github.com/ItsDevJay/QuickPSD-Edit.git
 cd QuickPSD-Edit
 Install dependencies:
 pip install -r requirements.txt
