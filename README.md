@@ -1,3 +1,5 @@
+![QuickPSD Edit](PhotoshopAI.png)
+
 QuickPSD Edit 🎨⚡
 
 Automate PSD editing with AI-powered scripting in Python & Flask
