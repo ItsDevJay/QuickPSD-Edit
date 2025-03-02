@@ -1,4 +1,4 @@
-![QuickPSD Edit](PhotoshopAI.png)
+![QuickPSD Edit](QuickPSD_UI_Composite.png)
 
 QuickPSD Edit 🎨⚡
 
