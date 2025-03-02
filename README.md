@@ -1,4 +1,4 @@
-!QuickPSD Edit](https://ibb.co/B580yrtw)
+![QuickPSD Edit](PhotoshopAI.png)
 
 QuickPSD Edit 🎨⚡
 
