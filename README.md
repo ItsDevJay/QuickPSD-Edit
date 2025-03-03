@@ -8,9 +8,17 @@ QuickPSD Edit is a Python-based automation tool that streamlines the modificatio
 
 Key Features:
 ✅ Automated PSD Editing – Modify text, images, and design elements programmatically.
+
+
 ✅ AI-Driven Efficiency – Uses automation to speed up the design workflow and maintain consistency.
+
+
 ✅ Flask-Powered API – Handles dynamic user inputs and updates PSD files in real-time.
+
+
 ✅ Photoshop Integration – Utilizes win32com to interact with Photoshop seamlessly.
+
+
 ✅ Optimized for Designers – Helps graphic designers and marketers generate personalized graphics quickly.
 
 Tech Stack
