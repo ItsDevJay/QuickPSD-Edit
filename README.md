@@ -17,6 +17,8 @@ Tech Stack
 Python (Flask, win32com)
 Adobe Photoshop API (via win32com)
 AI & Automation
+
+
 Why Use QuickPSD Edit?
 This project showcases how AI-enhanced scripting can boost productivity in creative fields by eliminating repetitive tasks, allowing users to create customized designs with minimal effort.
 
